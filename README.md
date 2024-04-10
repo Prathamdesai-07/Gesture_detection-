@@ -1,10 +1,10 @@
 # Gesture_detection-
 
-**Introduction**
+> **Introduction**
 
 This repository contains code for detecting a specific gesture in a video stream. The system processes input video data, detects the desired gesture, overlays text on the video frames where the gesture is detected, and saves the annotated video as an output.
 
-**Setup**
+> **Setup**
 
 Requirements: Make sure you have Python installed along with the necessary libraries such as OpenCV (cv2) and NumPy (numpy).
 Clone Repository: Clone this repository to your local machine.
